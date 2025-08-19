@@ -51,7 +51,7 @@ export const Hero: React.FC = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
         <div className="mb-8">
           <img
-            src="https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=400&h=400&fit=crop"
+            src="https://z-p3-scontent.fcmb9-1.fna.fbcdn.net/v/t39.30808-6/468147434_1143159527412777_6611086113612032659_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEWNmKqw-XxN3LUNmeX_AooPE49V7Y_p9A8Tj1Xtj-n0EGsF_B8w0QPGfCphc8R0tdJ29HgF3twX4_sTehzOvCd&_nc_ohc=iFRxA_YdMOUQ7kNvwE4qsVc&_nc_oc=AdmndSrC5dLn3vNEjF_eRT2AJXsmCgUlJIFeSVZpKrOGQrILUD6EygKQ-9PNPzKQ1gg&_nc_zt=23&_nc_ht=z-p3-scontent.fcmb9-1.fna&_nc_gid=FsQY5FZUUmikJXhYR5wSxw&oh=00_AfUWcL6_LVYCcH_t0MMjpkAh6aImvBNesoFuMiaOWeYcGg&oe=68A9BF2B?auto=compress&cs=tinysrgb&w=400&h=400&fit=crop"
             alt="Mohamed Fasrin Rahman"
             className="w-32 h-32 rounded-full mx-auto mb-6 shadow-xl ring-4 ring-blue-100"
           />
@@ -124,4 +124,5 @@ export const Hero: React.FC = () => {
       </div>
     </section>
   );
+
 };
